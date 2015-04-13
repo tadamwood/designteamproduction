@@ -41,6 +41,7 @@ header h2 {
 a {
 	text-decoration: none;
 	color: #2c3e50;
+	text-decoration:underline;
 }
 a:hover {
 	color: #16a085;
